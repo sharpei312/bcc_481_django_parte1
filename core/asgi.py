@@ -3,6 +3,8 @@ ASGI config for core project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
+Added a small comment to register changes in this section.
+
 For more information on this file, see
 https://docs.djangoproject.com/en/5.1/howto/deployment/asgi/
 """
