@@ -3,6 +3,7 @@ from django.contrib import admin
 from .models import Mensagem
 
 
+# Registro do modelo Mensagem no admin do Django
 @admin.register(Mensagem)
 class MensagemAdmin(admin.ModelAdmin):
     list_display = ("titulo", "criada_em")

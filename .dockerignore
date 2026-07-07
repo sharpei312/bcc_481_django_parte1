@@ -1,3 +1,4 @@
+# Arquivos ignorados na imagem Docker
 __pycache__
 *.pyc
 *.pyo

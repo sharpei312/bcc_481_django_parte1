@@ -1,3 +1,4 @@
+# Dockerfile para el proyecto Django + Tailwind
 FROM python:3.12-slim
 
 ENV PYTHONDONTWRITEBYTECODE=1

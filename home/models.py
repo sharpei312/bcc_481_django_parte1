@@ -1,6 +1,7 @@
 from django.db import models
 
 
+# Modelo Mensagem para armazenar as mensagens enviadas
 class Mensagem(models.Model):
     titulo = models.CharField(max_length=120)
     conteudo = models.TextField()
