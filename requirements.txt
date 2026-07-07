@@ -1,1 +1,2 @@
+# Dependencias del proyecto Django para el contenedor Docker
 Django==5.1.3
